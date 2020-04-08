@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace alternative_Подсказки_для_неявных_операций
+namespace JetBrainsProject
 {
     internal class RPN
     {
